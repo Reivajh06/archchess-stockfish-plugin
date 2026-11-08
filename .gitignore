@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+
+# Stockfish is fetched by scripts/fetch-stockfish.sh (too big for git)
+src/main/resources/engines/
+
+lib/.locks/
+lib/**/_remote.repositories
