@@ -1,5 +1,8 @@
 # Archchess Stockfish plugin
 
+![Alt text](stockfish-logo.png)
+
+
 A simple [Archchess](https://github.com/ReivajH06) plugin that lets the CPU play with [Stockfish](https://stockfishchess.org/).
 
 ## Install
